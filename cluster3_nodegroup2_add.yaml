@@ -12,7 +12,7 @@ metadata:
   version: "1.26"  
 
 nodeGroups:
-  - name: ng-1
+  - name: ng-2
     #instanceType: t3.large
     instanceType: t3.small
-    desiredCapacity: 3
+    desiredCapacity: 2
